@@ -1,10 +1,11 @@
-automatic-brightness-linux
- ==========================
+Automatic-brightness-linux
+==========================
  
  Small script which adapt the brightness of the screen with your web cam.
  
- dependencies
- ============
+ Dependencies
+============
+
  - xbacklight
  - streamer
  - imagemagick
@@ -17,8 +18,9 @@ automatic-brightness-linux
  
  Launch
  ======
- 
- to launch: python automatic-brightness.py [preference]
+
+python automatic-brightness.py [preference]
+
  preference option is an integer [0;100] to adapt the brightness
  
  example:     python automatic-brightness.py
@@ -27,6 +29,6 @@ automatic-brightness-linux
  Licencing
  ==========
  
- MIT licence
+ MIT licence.
  
  see more in licence file
