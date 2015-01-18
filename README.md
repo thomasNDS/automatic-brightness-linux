@@ -27,7 +27,7 @@ python automatic-brightness.py [preference]
  or with preference:   python automatic-brightness.py 25
  
  Licencing
- ==========
+==========
  
  MIT licence.
  
